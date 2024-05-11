@@ -50,14 +50,17 @@ This is a simple Spring Boot application for managing inventory items. It provid
 - **Update an item:** Click on the "Update" button next to the item you want to update.
 - **Delete an item:** Click on the "Delete" button next to the item you want to delete.
 
-## Screenshots
-
-![ItemList](![1](https://github.com/MN10101/curd-items/assets/78208459/e4cb5e56-b578-40b1-99f5-5e1bf5f202d9))
-
-![AddItem](screenshots/add_item.png)
 
 ## Author
 
-[Your Name](https://github.com/your_username)
+[Mahmoud Najmeh](https://github.com/your_username)
 
 Feel free to contact me if you have any questions or suggestions.
+
+## Screenshots
+
+![1](https://github.com/MN10101/curd-items/assets/78208459/e617ffcb-c7b2-4f02-be65-5ece6d753cc9)
+
+![2](https://github.com/MN10101/curd-items/assets/78208459/e7e15608-f017-4178-8dc4-5f31b89ed486)
+
+![3](https://github.com/MN10101/curd-items/assets/78208459/8c40b58a-7b75-4c8d-9b53-b4404fedc810)
