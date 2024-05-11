@@ -53,9 +53,11 @@ This is a simple Spring Boot application for managing inventory items. It provid
 
 ## Author
 
-[Mahmoud Najmeh](https://github.com/your_username)
+[Mahmoud Najmeh](https://mn10101.github.io/portfolio-mn/)
 
-Feel free to contact me if you have any questions or suggestions.
+## LICENSE
+
+This project is licensed under the Apache License 2.0 - see the [LICENSE](LICENSE) file for details.
 
 ## Screenshots
 
