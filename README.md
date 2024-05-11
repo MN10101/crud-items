@@ -52,7 +52,7 @@ This is a simple Spring Boot application for managing inventory items. It provid
 
 ## Screenshots
 
-![ItemList](screenshots/item_list.png)
+![ItemList](![1](https://github.com/MN10101/curd-items/assets/78208459/e4cb5e56-b578-40b1-99f5-5e1bf5f202d9))
 
 ![AddItem](screenshots/add_item.png)
 
