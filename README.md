@@ -14,7 +14,7 @@ This is a simple Spring Boot application for managing inventory items. It provid
 1. **Clone the repository**
 
     ```bash
-    git clone https://github.com/your_username/curd-items.git
+    git clone https://github.com/MN10101/crud-items
     ```
 
 2. **Database Configuration**
